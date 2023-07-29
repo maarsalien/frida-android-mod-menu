@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.maars.fmenu","l":"Config"},{"p":"com.maars.fmenu","l":"Menu"},{"p":"com.maars.fmenu","l":"PBoolean"},{"p":"com.maars.fmenu","l":"PInteger"},{"p":"com.maars.fmenu","l":"PString"}];updateSearchResults();
